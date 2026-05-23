@@ -19,6 +19,45 @@ Building scalable backend systems, intelligent automation, and production-ready 
 
 ---
 
+## 💼 Experience
+
+**Full Stack Intern** @ CodeAlpha *(Mar 2026 – Present)*
+- Developed and integrated frontend-backend modules using REST APIs, responsive UI workflows, and modular architecture
+- Worked on debugging, feature enhancement, API integration, and deployment in collaborative environments
+
+**Python Developer Intern** @ OctaNet Services Pvt. Ltd. *(Jun 2024 – Aug 2024)*
+- Developed Python automation scripts for workflow optimization and efficient data processing
+- Performed debugging, testing, and performance optimization for production-oriented applications
+
+---
+
+## 📜 Patents & Certifications
+
+| Credential | Issuer |
+|------------|--------|
+| 🏆 Thermal Management System for IT Infrastructure | Patent (Indian Patent Filed 2025) |
+| 🤖 AWS Prompt Engineering | Amazon Web Services |
+| 🧠 AWS Machine Learning | Amazon Web Services |
+| 🗄️ Oracle SQL | Oracle |
+| 🐍 Cisco Python Essentials | Cisco |
+
+---
+
+## 📄 Publication
+
+**Ethical AI-Driven Rehabilitation Systems** — Co-Author *(2025)*
+- Co-authored a publication on ethical and transparent deployment practices for AI-driven rehabilitation technologies
+- Contributed to technical research, analysis, and documentation
+
+---
+
+## 📖 Education
+
+**Marwadi University, Rajkot** — B.Tech in Artificial Intelligence *(2023 – 2027)*
+- CGPA: **9.08/10**
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
