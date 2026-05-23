@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/sathvikagudise">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+ML+Engineer;+Software Engineer;Open+Source+Contributor" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+ML+Engineer;Software+Engineer;Open+Source+Contributor" />
   </a>
 </p>
 
@@ -56,7 +56,6 @@ Building scalable backend systems, intelligent automation, and production-ready 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -90,7 +89,6 @@ Building scalable backend systems, intelligent automation, and production-ready 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**AccessGuard**](https://github.com/sathvikagudise/accessguard) | Backend access control system | Java, Spring Boot |
-
 
 ---
 
