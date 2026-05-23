@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/sathvikagudise">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+ML+Engineer;Open+Source+Contributor" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+ML+Engineer;+Software Engineer;Open+Source+Contributor" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@ Building scalable backend systems, intelligent automation, and production-ready 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sathvikagudise/sathvikagudise/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/sathvikagudise/sathvikagudise@output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
