@@ -21,7 +21,7 @@ Building scalable backend systems, intelligent automation, and production-ready 
 
 ## 💼 Experience
 
-**Full Stack Intern** @ CodeAlpha *(Mar 2026 – Present)*
+**Full Stack Intern** @ CodeAlpha *(Mar 2026 )*
 - Developed and integrated frontend-backend modules using REST APIs, responsive UI workflows, and modular architecture
 - Worked on debugging, feature enhancement, API integration, and deployment in collaborative environments
 
