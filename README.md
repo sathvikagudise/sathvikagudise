@@ -88,7 +88,8 @@ Building scalable backend systems, intelligent automation, and production-ready 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**AccessGuard**](https://github.com/sathvikagudise/accessguard) | Backend access control system | Java, Spring Boot |
+| [**AccessGuard**](https://github.com/sathvikagudise/AccessGuard) | Real-time WCAG accessibility auditing & HTML remediation platform | Python, FastAPI, React |
+| [**VoiceEnabledExpenseManager**](https://github.com/sathvikagudise/VoiceEnabledExpenseManager) | JavaFX expense manager with voice commands, MySQL, charts, PDF export | Java, JavaFX, MySQL |
 
 ---
 
