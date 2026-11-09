@@ -1,112 +1,56 @@
-<h1 align="center">Hi there 👋, I'm Sathvika Gudise</h1>
-<h3 align="center">Building full-stack & AI-powered applications</h3>
+<h1 align="center">Hi, I'm Sathvika Gudise 👋</h1>
+<h3 align="center">AI & Software Engineer | Building systems that ship</h3>
 
 <p align="center">
-  <a href="https://github.com/sathvikagudise">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+ML+Engineer;Software+Engineer;Open+Source+Contributor" />
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Applied+AI+%26+Deep+Learning;Agentic+Automation+%26+RAG;Full-Stack+Systems+Engineer" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sathvikayadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sathvika-portfolio-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:sathvikayadav3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Building scalable backend systems, intelligent automation, and production-ready infrastructure. Interested in **multimodal AI, LLM applications, OCR pipelines, agentic workflows**, and modern software engineering.
+I care less about buzzwords and more about the moment an idea becomes reliable, tested software. I specialize in building **Applied AI systems** (Deep Learning, Computer Vision, RAG) and **full-stack automation** platforms, validated with **900+ automated tests**.
 
-- 🔭 Currently working on AI-powered audit automation
-- 🌱 Exploring distributed systems & LLM fine-tuning
-- 💬 Ask me about **Python, FastAPI, React, AI/ML**
-
----
-
-## 💼 Experience
-
-**Full Stack Intern** @ CodeAlpha *(Mar 2026 )*
-- Developed and integrated frontend-backend modules using REST APIs, responsive UI workflows, and modular architecture
-- Worked on debugging, feature enhancement, API integration, and deployment in collaborative environments
-
-**Python Developer Intern** @ OctaNet Services Pvt. Ltd. *(Jun 2024 – Aug 2024)*
-- Developed Python automation scripts for workflow optimization and efficient data processing
-- Performed debugging, testing, and performance optimization for production-oriented applications
+- 🔭 **Currently:** Building deterministic, explainable AI automation at **The Venture Build (TVB)**.
+- 🛡️ **Focus:** Explainable AI (XAI), uncertainty handling, and avoiding black-box models.
+- 💬 **Ask me about:** PyTorch, FastAPI, RAG, or building zero-API-key scraping pipelines.
 
 ---
 
-## 📜 Patents & Certifications
-
-| Credential | Issuer |
-|------------|--------|
-| 🏆 Thermal Management System for IT Infrastructure | Patent (Indian Patent Filed 2025) |
-| 🤖 AWS Prompt Engineering | Amazon Web Services |
-| 🧠 AWS Machine Learning | Amazon Web Services |
-| 🗄️ Oracle SQL | Oracle |
-| 🐍 Cisco Python Essentials | Cisco |
-
----
-
-## 📄 Publication
-
-**Ethical AI-Driven Rehabilitation Systems** — Co-Author *(2025)*
-- Co-authored a publication on ethical and transparent deployment practices for AI-driven rehabilitation technologies
-- Contributed to technical research, analysis, and documentation
-
----
-
-## 📖 Education
-
-**Marwadi University, Rajkot** — B.Tech in Artificial Intelligence *(2023 – 2027)*
-- CGPA: **9.08/10**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-
-### Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-
-### AI/ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
-
----
-
-## 📈 GitHub Analytics
+## 🛠️ My Toolkit
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathvikagudise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvikagudise&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+  <b>AI / Deep Learning</b><br>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikagudise&theme=tokyonight&hide_border=true&background=0D1117" />
+  <b>Backend & Web</b><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathvikagudise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikagudise&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
 </p>
 
 <p align="center">
@@ -115,23 +59,35 @@ Building scalable backend systems, intelligent automation, and production-ready 
 
 ---
 
+## 🚀 Featured Projects
+
+*Click the project names to view the repositories.*
+
+### 🛡️ [SmartID Risk](https://github.com/sathvikagudise/SmartID-Risk)
+> **Explainable AI Risk Engine** | *Python, PyTorch, FastAPI*
+> Built a deterministic policy engine with an evidence abstraction layer (AVAILABLE / FAILED / UNKNOWN) to ensure missing data is never treated as low risk. Caught a severe generalization gap in an experimental model (0.43 unseen AUC) and excluded it to prevent unsafe deployment.
+
+### 🤖 [TVB Opportunity Intelligence](https://github.com/sathvikagudise/TVB-Opportunity-Intelligence) *(Update link if different)*
+> **Deterministic Matching & Web Scraping** | *TypeScript, React, Node.js, Firecrawl*
+> Aggregates **500+ live grants/tenders per run** across 7+ global sources. Engineered a 70/20/10 explainable suitability engine. Validated with **427+ integration tests**.
+
+### 🧠 [SkillForge](https://github.com/sathvikagudise/SkillForge)
+> **AI Learning Platform (RAG)** | *Python, FastAPI, FAISS, Gemini*
+> Multi-provider LLM routing (Ollama, DeepSeek, Gemini) with semantic retrieval for context-aware learning, custom quizzes, and interactive knowledge graphs.
+
+### ♿ [AccessGuard](https://github.com/sathvikagudise/AccessGuard)
+> **Web Accessibility Audit Platform** | *Python, FastAPI, Vanilla JS*
+> Inspects live websites for WCAG violations and generates context-aware HTML remediation. Deployed stateless backend on Render and frontend on Vercel.
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/sathvikagudise/sathvikagudise@output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/sathvikagudise/sathvikagudise@output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
-
-## 📌 Pinned Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**AccessGuard**](https://github.com/sathvikagudise/AccessGuard) | Real-time WCAG accessibility auditing & HTML remediation platform | Python, FastAPI, React |
-| [**VoiceEnabledExpenseManager**](https://github.com/sathvikagudise/VoiceEnabledExpenseManager) | JavaFX expense manager with voice commands, MySQL, charts, PDF export | Java, JavaFX, MySQL |
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathvikagudise&label=Profile%20Views&color=0e75b6&style=flat" />
+  <i>"I don't ship black boxes."</i>
 </p>
